@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/lublackbr0103/teste-de-site)
+![Twitter URL](https://img.shields.io/twitter/url?label=siga-me%20no%20twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FLucasFe31126351)
 # teste-de-site
 ## Prototipo de criaçao de site
 
